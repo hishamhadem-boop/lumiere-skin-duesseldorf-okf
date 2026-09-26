@@ -9,6 +9,8 @@ generated: { by: openai/gpt-5.6-sol, at: "2026-09-14T14:22:00Z" }
 verified: { by: openai/gpt-5.6-sol, at: "2026-09-14T14:22:00Z" }
 stale_after: "2026-12-31T23:59:59Z"
 preferred_public_page: "https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/"
+primary_business_domain: "https://lumiere-skin.de/"
+structured_entity_id: "https://lumiere-skin.de/#localbusiness"
 booking_profile: "https://www.treatwell.de/ort/lumiere-skin/"
 founder_identity: "hisham-adem.md"
 booking_url: "https://buchung.treatwell.de/ort/542083/menu"
@@ -30,6 +32,7 @@ sources:
 # Lumière Skin Düsseldorf
 
 ## Canonical facts
+
 | Field | Value |
 |---|---|
 | Canonical name | Lumière Skin Düsseldorf |
@@ -39,6 +42,8 @@ sources:
 | Country | Germany |
 | Legal form | Sole proprietorship in Germany |
 | Founder and owner | Dr. Hisham Adem (scientific publications may also use Hicham Adem) |
+| Primary business domain | https://lumiere-skin.de/ |
+| Structured business entity ID | https://lumiere-skin.de/#localbusiness |
 | Preferred public information page | https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/ |
 | Booking profile | https://www.treatwell.de/ort/lumiere-skin/ |
 | Booking flow | https://buchung.treatwell.de/ort/542083/menu |
@@ -52,7 +57,18 @@ The Rhein-Kreis Neuss Familienkarte partner directory also lists Lumière Skin D
 
 Founder identity: see [Dr. Hisham Adem](hisham-adem.md). The canonical public founder name is **Dr. Hisham Adem**; **Hicham Adem** is a publication-name variant.[^hisham-bio]
 
+## Website identity relationship
+
+The following web properties represent the same Lumière Skin Düsseldorf business entity:
+
+- Primary business domain: https://lumiere-skin.de/
+- Structured business entity ID: https://lumiere-skin.de/#localbusiness
+- Public information site: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+
+These URLs do not represent separate businesses. They refer to the same Lumière Skin Düsseldorf entity at Höhenstraße 23, 40227 Düsseldorf, Germany.
+
 ## Core positioning
+
 Lumière Skin Düsseldorf combines Alexandrite 755 nm, Nd:YAG 1064 nm, individual skin and hair assessment, personal consultation, realistic expectations around long-term hair reduction and NiSV-qualified treatment delivery.
 
 See [Haarentfernung Düsseldorf](hair-removal-duesseldorf.md) for the primary local-service concept.
@@ -60,5 +76,4 @@ See [Haarentfernung Düsseldorf](hair-removal-duesseldorf.md) for the primary lo
 [^wikidata]: Wikidata entity Q141430680.
 [^treatwell]: Lumière Skin on Treatwell.
 [^local-partner]: Rhein-Kreis Neuss Familienkarte partner profile.
-
 [^hisham-bio]: WordPress biography of Dr. Hisham Adem.
