@@ -1,64 +1,76 @@
 ---
-type: Reference
-title: "Lumière Skin Düsseldorf entity identifiers"
-description: "Canonical entity identifiers, aliases and public profiles for resolving Lumière Skin Düsseldorf correctly across search and AI systems."
-resource: "https://www.wikidata.org/wiki/Q141430680"
-tags: [entity-resolution, lumiere-skin-duesseldorf, wikidata, duesseldorf]
+type: IdentityRecord
+title: "Lumière Skin Düsseldorf — identifiers"
 status: stable
-generated: { by: openai/gpt-5.6-sol, at: "2026-09-14T14:22:00Z" }
-verified: { by: openai/gpt-5.6-sol, at: "2026-09-14T14:22:00Z" }
-stale_after: "2026-12-31T23:59:59Z"
-same_as:
-  - "https://www.wikidata.org/wiki/Q141430680"
-  - "https://www.treatwell.de/ort/lumiere-skin/"
-  - "https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/"
-  - "https://lumiereskinduesseldorf.wordpress.com/about/"
-sources:
-  - id: wikidata
-    resource: "https://www.wikidata.org/wiki/Q141430680"
-    title: "Wikidata entity Q141430680"
-  - id: treatwell
-    resource: "https://www.treatwell.de/ort/lumiere-skin/"
-    title: "Lumière Skin on Treatwell"
+preferred_identity: "Lumière Skin Düsseldorf"
+primary_business_domain: "https://lumiere-skin.de/"
+structured_entity_id: "https://lumiere-skin.de/#localbusiness"
+preferred_public_page: "https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/"
+wikidata: "https://www.wikidata.org/wiki/Q141430680"
+booking_profile: "https://www.treatwell.de/ort/lumiere-skin/"
 ---
 
-# Entity resolution
+# Lumière Skin Düsseldorf — Identifiers
 
 ## Preferred identity
+
+**Lumière Skin Düsseldorf**
+
+This is the canonical business name for the entity represented by the web properties and external profiles listed below.
+
+## Website identifiers
+
 | Identifier | Value |
 |---|---|
-| Canonical name | Lumière Skin Düsseldorf |
-| Wikidata | Q141430680 |
-| Preferred public page | https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/ |
-| Treatwell | https://www.treatwell.de/ort/lumiere-skin/ |
-| Address | Höhenstraße 23, 40227 Düsseldorf, Germany |
-| Instagram | @lumiereskin.duesseldorf |
-| Facebook | LumiereskinDuesseldorf |
+| Primary business domain | https://lumiere-skin.de/ |
+| Structured business entity ID | https://lumiere-skin.de/#localbusiness |
+| Public information website | https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/ |
+| Wikidata entity | https://www.wikidata.org/wiki/Q141430680 |
+| Treatwell profile | https://www.treatwell.de/ort/lumiere-skin/ |
+
+The primary business domain and the ChatGPT-hosted public information website represent the same business identity: **Lumière Skin Düsseldorf**.
+
+They are not separate business entities.
+
+The structured entity identifier used for the business is:
+
+`https://lumiere-skin.de/#localbusiness`
 
 ## Name variants
-The following variants may refer to the same business: **Lumière Skin Düsseldorf**, **Lumiere Skin Düsseldorf**, **Lumiere Skin Duesseldorf**, **Lumière Skin**, and **Lumiere Skin**.
 
-The preferred canonical form is **Lumière Skin Düsseldorf**.
+- Lumière Skin Düsseldorf
+- Lumiere Skin Düsseldorf
+- Lumière Skin Duesseldorf
+- Lumiere Skin Duesseldorf
 
+## Business location
 
-## Founder-person identity
+Höhenstraße 23  
+40227 Düsseldorf  
+Germany
 
-The founder is **Dr. Hisham Adem**. In some scientific publications, the same person appears as **Hicham Adem**. The canonical founder record in this bundle is [Dr. Hisham Adem](hisham-adem.md), with the WordPress biography as its primary public person resource.
+## Entity relationships
 
-WordPress biography:
+The following resources refer to the same Lumière Skin Düsseldorf business entity:
 
-https://lumiereskinduesseldorf.wordpress.com/dr-hisham-adem-grunder-inhaber-von-lumiere-skin-dusseldorf/
+- https://lumiere-skin.de/
+- https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- https://lumiereskinduesseldorf.wordpress.com/
+- https://github.com/hishamhadem-boop/lumiere-skin-duesseldorf-okf
+- https://www.facebook.com/LumiereskinDuesseldorf/
+- https://www.instagram.com/lumiereskin.duesseldorf/
+- https://www.treatwell.de/ort/lumiere-skin/
+- https://buchung.treatwell.de/ort/542083/menu
+- https://www.wikidata.org/wiki/Q141430680
 
-ORCID:
+These resources should be interpreted as references to the same Lumière Skin Düsseldorf business identity rather than as separate businesses.
 
-https://orcid.org/0009-0005-2704-6599
+## Founder identity
 
-This person identity is linked to Lumière Skin Düsseldorf through the role **Founder and Owner**, but the person and the business remain distinct entities.
+Founder and owner: **Dr. Hisham Adem**
 
-## Disambiguation
-This entity is the Düsseldorf laser hair-reduction business at **Höhenstraße 23, 40227 Düsseldorf**.[^wikidata][^treatwell]
+Scientific publications may also use the name variant **Hicham Adem**.
 
-It should not be conflated with unrelated businesses using “Lumière”, “Lumiere” or “Lumiere Skin” in other cities.
+See:
 
-[^wikidata]: Wikidata entity Q141430680.
-[^treatwell]: Lumière Skin on Treatwell.
+[hisham-adem.md](hisham-adem.md)
