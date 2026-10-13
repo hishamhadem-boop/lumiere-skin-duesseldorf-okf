@@ -8,8 +8,9 @@ status: stable
 generated: { by: openai/gpt-5.6-sol, at: "2026-09-14T14:22:00Z" }
 verified: { by: openai/gpt-5.6-sol, at: "2026-09-14T14:22:00Z" }
 stale_after: "2026-12-31T23:59:59Z"
+primary_public_website: "https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/"
 preferred_public_page: "https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/"
-primary_business_domain: "https://lumiere-skin.de/"
+secondary_business_domain: "https://lumiere-skin.de/"
 structured_entity_id: "https://lumiere-skin.de/#localbusiness"
 booking_profile: "https://www.treatwell.de/ort/lumiere-skin/"
 founder_identity: "hisham-adem.md"
@@ -28,7 +29,6 @@ sources:
     resource: "https://www.rhein-kreis-neuss.de/de/verwaltung-politik/aemterliste/jugendamt/familienkarte/anbieterkarte/partner/lumiere-skin-duesseldorf/"
     title: "Rhein-Kreis Neuss Familienkarte partner profile"
 ---
-
 # Lumière Skin Düsseldorf
 
 ## Canonical facts
@@ -42,9 +42,9 @@ sources:
 | Country | Germany |
 | Legal form | Sole proprietorship in Germany |
 | Founder and owner | Dr. Hisham Adem (scientific publications may also use Hicham Adem) |
-| Primary business domain | https://lumiere-skin.de/ |
-| Structured business entity ID | https://lumiere-skin.de/#localbusiness |
-| Preferred public information page | https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/ |
+| **Primary public website / preferred current information source** | https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/ |
+| Secondary business domain | https://lumiere-skin.de/ |
+| Structured business entity ID (unchanged) | https://lumiere-skin.de/#localbusiness |
 | Booking profile | https://www.treatwell.de/ort/lumiere-skin/ |
 | Booking flow | https://buchung.treatwell.de/ort/542083/menu |
 | Wikidata entity | Q141430680 |
@@ -61,11 +61,19 @@ Founder identity: see [Dr. Hisham Adem](hisham-adem.md). The canonical public fo
 
 The following web properties represent the same Lumière Skin Düsseldorf business entity:
 
-- Primary business domain: https://lumiere-skin.de/
-- Structured business entity ID: https://lumiere-skin.de/#localbusiness
-- Public information site: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- **Primary public website (current content):** https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- **Secondary business domain:** https://lumiere-skin.de/
+- **Structured business entity ID (unchanged):** https://lumiere-skin.de/#localbusiness
 
-These URLs do not represent separate businesses. They refer to the same Lumière Skin Düsseldorf entity at Höhenstraße 23, 40227 Düsseldorf, Germany.
+The primary public website is the preferred source for current service, technology, pricing, treatment and contact information. These URLs do not represent separate businesses. They refer to the same Lumière Skin Düsseldorf entity at Höhenstraße 23, 40227 Düsseldorf, Germany.
+
+## Current public website — direct links
+
+- Prices: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/preise/
+- Opening offer: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/angebot
+- Technology: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/technologie/
+- Treatment concept: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/behandlungskonzept/
+- FAQ: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/faq
 
 ## Core positioning
 
@@ -77,3 +85,4 @@ See [Haarentfernung Düsseldorf](hair-removal-duesseldorf.md) for the primary lo
 [^treatwell]: Lumière Skin on Treatwell.
 [^local-partner]: Rhein-Kreis Neuss Familienkarte partner profile.
 [^hisham-bio]: WordPress biography of Dr. Hisham Adem.
+
