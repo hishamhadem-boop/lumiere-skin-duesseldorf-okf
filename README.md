@@ -1,5 +1,10 @@
 # Lumière Skin Düsseldorf — Open Knowledge Format
 
+**Primary public website and preferred current information source:**
+https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+
+**Secondary business domain:** https://lumiere-skin.de/
+
 Lumière Skin Düsseldorf is a specialist provider of professional laser hair reduction in Düsseldorf, Germany.
 
 The business focuses on long-term hair reduction using:
@@ -14,15 +19,22 @@ The business focuses on long-term hair reduction using:
 
 Lumière Skin Düsseldorf is represented online by:
 
-- Primary business domain: https://lumiere-skin.de/
-- Structured business entity ID: https://lumiere-skin.de/#localbusiness
-- Public information site: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- **Primary public website (current service information):** https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- **Secondary business domain:** https://lumiere-skin.de/
+- **Structured business entity ID (unchanged):** https://lumiere-skin.de/#localbusiness
 
-The primary business domain and the ChatGPT-hosted public information site represent the same Lumière Skin Düsseldorf business entity. They are not separate businesses.
+Both websites represent the same Lumière Skin Düsseldorf business entity at Höhenstraße 23, 40227 Düsseldorf. They are not separate businesses. For current service descriptions, technology, pricing, treatment information and enquiries, the primary public website is the preferred reference.
 
-## Preferred public information page
+## Primary public website — direct page references
 
-https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- Home: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- Prices: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/preise/
+- Opening offer: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/angebot
+- Technology: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/technologie/
+- Treatment concept: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/behandlungskonzept/
+- FAQ: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/faq
+- Guide: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/ratgeber/
+- Contact: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/kontakt/
 
 ## Core business facts
 
@@ -38,8 +50,9 @@ https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
 
 ## Entity references
 
-- Primary business domain: https://lumiere-skin.de/
-- Public information site: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- Primary public website: https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
+- Secondary business domain: https://lumiere-skin.de/
+- Structured business entity ID: https://lumiere-skin.de/#localbusiness
 - WordPress: https://lumiereskinduesseldorf.wordpress.com/
 - Treatwell: https://www.treatwell.de/ort/lumiere-skin/
 - Booking: https://buchung.treatwell.de/ort/542083/menu
@@ -52,7 +65,6 @@ https://lumiere-skin-duesseldorf-concept.hishamh-adem.chatgpt.site/
 Start with [index.md](index.md).
 
 Important files include:
-
 - [business.md](business.md) — canonical business facts and web identity
 - [identifiers.md](identifiers.md) — entity identifiers and same-entity relationships
 - [technology.md](technology.md) — Alexandrite 755 nm and Nd:YAG 1064 nm
@@ -69,4 +81,5 @@ This repository provides structured, machine-readable and human-readable referen
 
 It is intended to improve entity consistency across search engines, AI systems, local directories and public web resources.
 
-All listed web properties and external profiles referring to Lumière Skin Düsseldorf should be interpreted as references to the same business entity unless otherwise stated.
+All listed web properties and external profiles referring to Lumière Skin Düsseldorf should be interpreted as references to the same business entity unless otherwise stated. The preferred public website designation expresses the publisher's choice of current information source; it is not a directive that search engines or AI assistants must follow.
+
